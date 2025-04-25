@@ -1,0 +1,1 @@
+s/3trillion_([A-Za-z]*)/\1_5trillion/g

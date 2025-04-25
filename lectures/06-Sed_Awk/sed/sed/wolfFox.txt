@@ -4,3 +4,5 @@
 4. WOLf WOlf WOLF
 5. wolfISWolf WOlfISwoLF
 6. NO_w.olf in this line
+7. Wolf wolf WOlf wolf 
+8. wolf wolf wolf WOLF nothing

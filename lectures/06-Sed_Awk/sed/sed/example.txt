@@ -1,0 +1,10 @@
+Lorem ipsum dolor sit
+amet consectetur adipisicing elit
+ Rerum quod amet,
+  voluptate exercitationem ipsam ipsum 
+illo repudiandae est minima laborum mollitia tota
+ asperiores a cupiditate commodi similique
+emo sequi optio 
+
+
+sed -E 's/(\w+)(\s)(\w+)/(\1)\2\3/g' example.txt

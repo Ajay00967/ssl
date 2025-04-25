@@ -25,6 +25,7 @@ print("6. Dimensions of 3D array:", arr_3d.ndim)
 reshaped_2d = arr_1d.reshape((3, 3))  # 1D to 2D
 reshaped_3d = arr_2d.reshape((1, 3, 3))  # 2D to 3D
 reshaped_neg1 = arr_1d.reshape(-1, 3)  # Using -1 to infer one dimension
+# the above (-1, 3) means convert to an array with 3 columns and as many rows needed.
 
 print("\n7. Reshaped Array (1D to 2D, 3x3):\n", reshaped_2d)
 print("\n8. Reshaped Array (2D to 3D, 1x3x3):\n", reshaped_3d)

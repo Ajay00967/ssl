@@ -30,6 +30,9 @@ echo "Extracting Only Names:"
 sed -E 's/, [0-9]+, .*$//' sample.txt
 echo ""
 
+sed -E 's/([a-zA-Z\s]*),.*/\1/' sample.txt
+echo
+
 ### 4. Change Comma (,) to Pipe (|) as a delimiter
 echo "Replacing , with |:"
 sed -E 's/,/|/g' sample.txt

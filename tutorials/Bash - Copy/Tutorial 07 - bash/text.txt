@@ -1,0 +1,3 @@
+Hello
+This is text.txt 
+I am reading this in a bash script.

@@ -21,6 +21,8 @@ echo myVariable
 echo $myVariable
 echo "$myVariable"
 echo '$myVariable'
+# echo Hello, world\! will not print the !, it will only print Hello, world!
+# this can be used to print the whitespace :)
 
 #Handling spaces
 #{ } can be used to clearly separate the variable name from surrounding text. See below
@@ -28,6 +30,7 @@ echo -e "\n"
 var="abc	xyz"
 num="123"
 echo 1 $var$num
+# echo 1 "$var$num" will preserve the spaces :)
 echo 2 "$varXX$num"
 echo 3 "${var}XX${num}"
 
