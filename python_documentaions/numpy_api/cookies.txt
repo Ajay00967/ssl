@@ -1,0 +1,27 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+en.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	26-Apr-2025
+.wikipedia.org	TRUE	/	FALSE	1999999999	GeoIP	IN:MH:Mumbai:19.07:72.89:v4
+en.wikipedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+en.m.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	26-Apr-2025
+en.m.wikipedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+en.m.wikipedia.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	26-Apr-2025
+.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	IN:MH:Mumbai:19.07:72.89:v4
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+en.wikipedia.org	TRUE	/	FALSE	1999999999	CentralAuthAnonTopLevel	1
+en.wikipedia.org	TRUE	/	FALSE	1999999999	enwikiSession	l1goaqnkut632s5grs7pucv7pu3o6i5k
+en.wikipedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+en.m.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-DP	7ce,6b3
+en.m.wikipedia.org	TRUE	/	FALSE	1999999999	CentralAuthAnonTopLevel	1
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	26-Apr-2025
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	26-Apr-2025
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-DP	62e
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	CentralAuthAnonTopLevel	1
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	commonswikiSession	48ehkclrh1mp0tpu3m8tcojpkd7f2162
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+en.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-DP	7ce,1f8,309,131,d43,cc9,d35,642,245
+en.wikipedia.org	TRUE	/	FALSE	1999999999	include_pv	0
+
